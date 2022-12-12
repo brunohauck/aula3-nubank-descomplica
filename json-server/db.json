@@ -1,0 +1,52 @@
+{
+    "users": [
+      {
+        "name": "aryan",
+        "email": "aryan@gmail.com",
+        "phone": "1234567890",
+        "id": 1
+      },
+      {
+        "name": "akash",
+        "email": "akash@gmail.com",
+        "phone": "98786756564",
+        "id": 2
+      },
+      {
+        "name": "suraj",
+        "email": "suraj@gmail.com",
+        "phone": "9956976967",
+        "id": 3
+      },
+      {
+        "name": "rakesh",
+        "email": "rakesh@gmail.com",
+        "phone": "9579579575",
+        "id": 4
+      },
+      {
+        "name": "vikas",
+        "email": "vikas@gmail.com",
+        "phone": "444444444444",
+        "id": 5
+      },
+      {
+        "name": "Bruno Hauck",
+        "email": "brunohauck@gmail.com",
+        "phone": "5531988724779",
+        "id": 6
+      },
+      {
+        "name": "Teste Descomplica",
+        "email": "brunoteste@gmail.com",
+        "phone": "5531988724779",
+        "id": 7
+      },
+      {
+        "name": "Bruno teste 22",
+        "email": "brunoteste22@gmail.com",
+        "phone": "5531988724779",
+        "id": 8
+      }
+    ]
+  }

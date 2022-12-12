@@ -21,12 +21,10 @@ function App() {
     setInfo('Final da aula')
     setCount(count + 1);
   }
-  /*  <Body clickAumentar={clickAumentar}  />
-      <h3>Info: {info} - Contador {count} </h3>
-       */
+
   console.log(count)
-  //brunohauck@gmail.com
-  //  <Header name={name} /> 
+ 
+  //https://github.com/brunohauck/aula3-nubank-descomplica
   return (
     <div className="App">
       <BrowserRouter>
