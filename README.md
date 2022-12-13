@@ -2,6 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Para rodar o Json server entrar na pasta e executar o comando 
+
+json-server -p 4000 db.json
+
+Segue as redes sociais do Professor Bruno Hauck
+
+Youtube
+https://www.youtube.com/c/MentorNerdStartdev
+
+Treinamento React com Node js 
+https://www.youtube.com/watch?v=veQ0JzX_g3w&list=PLMg7nm9OcrdlhTsN2PvLbNveJYWrHMQZv
+
+Twitter
+https://twitter.com/bruno_hauck
+
+Linkedin
+https://www.linkedin.com/in/bruno-hauck-new
+
+Instagram
+https://www.instagram.com/brunohauck/
+
 ## Available Scripts
 
 In the project directory, you can run:
